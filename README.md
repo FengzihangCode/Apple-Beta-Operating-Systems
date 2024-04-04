@@ -1,7 +1,7 @@
 # Apple Beta Operating Systems
 Beta software, also referred to as a preview, seed, or release candidate, is a pre-release version of software that’s still under development and not yet released to the public. We support developers to try the newest operating systems and develop their application.
 # COPYRIGHT
-The copyright is from Apple. You must read their rules first and can NOT against their rules.
+The copyright is from Apple. You must read their rules and terms first and can NOT against them.
 # Installing Apple Beta Software
 Beta versions of iOS, iPadOS, macOS, tvOS, and watchOS are available to all developers. Developers can develop apps that take advantage of the latest features of Apple platforms and test existing apps for compatibility.
 ## Overview
