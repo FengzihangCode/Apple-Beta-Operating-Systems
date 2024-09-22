@@ -10,7 +10,8 @@ Beta software, also referred to as a preview, seed, or release candidate, is a p
 ## For devices running iOS 16.4 or later
 Go to Settings > General > Software Update > Beta Updates and choose the Developer beta.
 When a new developer beta is available, you can install it from Software Update.
-[Note]Your iPhone must be signed in with the Apple ID you use to sign into to the Apple Developer website in order to access the beta software.
+> [!NOTE]
+> Your iPhone must be signed in with the Apple ID you use to sign into to the Apple Developer website in order to access the beta software.
 ## For devices running iOS 16.3 or earlier
 Download the configuration profile from the download page.
 On your device: Download the configuration profile directly onto your device and follow the installation instructions.
