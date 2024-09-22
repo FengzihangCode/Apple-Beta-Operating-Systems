@@ -36,7 +36,7 @@ Tap Settings > General > Software Update.
 Tap ”Download and Install“.
 To update now, tap Install. Or tap Later and choose Install Tonight or Remind Me Later. If you tap Install Tonight, connect your device to a power cord at night and your device will update automatically by morning.
 If prompted, enter your passcode.
-Please note that the configuration profile will only offer iPadOS 16 beta updates. To get iPadOS 17 beta, please follow the instructions for iPadOS 16.4 or later.
+Please note that the configuration profile will only offer iPadOS 16 beta updates. To get iPadOS 17 beta or later, please follow the instructions for iPadOS 16.4 or later.
 # macOS beta software
 ## For devices running macOS 13.4 Ventura or later
 Go to System Settings > General > Software Update, then click the info button ⓘ next to ”Beta updates“. Choose the macOS Developer beta you’d like to install.
